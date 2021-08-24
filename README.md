@@ -11,10 +11,14 @@ Aula 04 - Iniando um repositório
 Aula 05 - Branch e Commit
 - verificando se há alterações pendentes    -> git status
 - adicionando um arquivo para monitoramento -> git add nome do arquivo
-- adicionando todos os arquivos             -> git add -A
+- adicionando todos os arquivos             -> git add
+- salvando as alterações                    -> git commit -m "Comentários sobre as alterações"
+
 Criado o arquivo index.html
 Criado o arquivo style.css
 
 Aula 06 - Revertendo modificações
-- mostrando todas as alterações -> git log
-- mostrando o BRANCH            -> git branch
+- mostrando todas as alterações           -> git log
+- mostrando o BRANCH                      -> git branch
+- voltando a um estado anterior ao commit -> git reset --soft id_commit
+- voltando ao commit anterior             -> git reset --hard id_commit
