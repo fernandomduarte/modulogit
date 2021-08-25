@@ -11,7 +11,7 @@ Aula 04 - Iniando um repositório
 Aula 05 - Branch e Commit
 - verificando se há alterações pendentes    -> git status
 - adicionando um arquivo para monitoramento -> git add nome do arquivo
-- adicionando todos os arquivos             -> git add
+- adicionando todos os arquivos             -> git add -A
 - salvando as alterações                    -> git commit -m "Comentários sobre as alterações"
 
 Criado o arquivo index.html
@@ -24,5 +24,5 @@ Aula 06 - Revertendo modificações
 - voltando ao commit anterior             -> git reset --hard id_commit
 
 Aula 07 - Trabalhando com outros Branchs
-- criando um novo branch -> git branch nome_da_versao
+- criando um novo branch   -> git branch nome_da_versao
 - alternando entre branchs -> git checkout nome_da_versao
