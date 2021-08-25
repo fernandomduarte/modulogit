@@ -44,3 +44,6 @@ Aula 10 - Conectando um repositório local ao remoto
 
 Aula 11 - Fazendo alterações no repositório remoto
 - Enviando o projeto atualizado para o remoto -> git push origin master
+
+Aula 12 - Ignorando arquivos do repositório
+
