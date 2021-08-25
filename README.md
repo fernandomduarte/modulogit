@@ -31,3 +31,4 @@ Aula 08 - Diferença entre arquivos
 - visualizando em detalhes as altarações nos arquivos      -> git diff
 - mostrar somente quem quais arquvos houveram modificações -> git diff --name-only
 - mostar alterações em um arquivo específico               -> git diff nome_do_arquivo
+- desfazer alterações em um arquivo específico             -> git checkout HEAD -- nome_do_arquivo
