@@ -26,3 +26,8 @@ Aula 06 - Revertendo modificações
 Aula 07 - Trabalhando com outros Branchs
 - criando um novo branch   -> git branch nome_da_versao
 - alternando entre branchs -> git checkout nome_da_versao
+
+Aula 08 - Diferença entre arquivos
+- visualizando em detalhes as altarações nos arquivos      -> git diff
+- mostrar somente quem quais arquvos houveram modificações -> git diff --name-only
+- mostar alterações em um arquivo específico               -> git diff nome_do_arquivo
