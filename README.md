@@ -36,3 +36,4 @@ Aula 08 - Diferença entre arquivos
 Aula 09 - Criando um respositorio no site Github
 
 Aula 10 - Conectando um repositório local ao remoto
+- Gerando um SSH Key -> ssh-keygen -t rsa -b 4096 "your_email@example.com"
