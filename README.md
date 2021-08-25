@@ -37,3 +37,10 @@ Aula 09 - Criando um respositorio no site Github
 
 Aula 10 - Conectando um repositório local ao remoto
 - Gerando um SSH Key -> ssh-keygen -o -t rsa -C "your@email.com"
+- Local onde será salvo o SSH: C:/Users/seunome/.ssh/id_rsa
+- Criando o repositório remoto                           -> git remote add origin url_do_repositorio.git
+- Verificando Ok                                         -> git remote
+- Enviando o projeto existente para o repositorio remoto -> git push -u origin(site oficial do git) master(nome_do_branch)
+
+Aula 11 - Fazendo alterações no repositório remoto
+- Enviando o projeto atualizado para o remoto -> git push origin master
