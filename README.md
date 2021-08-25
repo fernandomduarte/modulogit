@@ -22,3 +22,7 @@ Aula 06 - Revertendo modificações
 - mostrando o BRANCH                      -> git branch
 - voltando a um estado anterior ao commit -> git reset --soft id_commit
 - voltando ao commit anterior             -> git reset --hard id_commit
+
+Aula 07 - Trabalhando com outros Branchs
+- criando um novo branch -> git branch nome_da_versao
+- alternando entre branchs -> git checkout nome_da_versao
